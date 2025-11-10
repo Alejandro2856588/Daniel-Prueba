@@ -17,3 +17,7 @@ Productos: listar, crear, editar, eliminar, asociados a una categoría.
 API REST en /categories y /products.
 
 Frontend tipo dashboard con tablas, formularios y navegación.
+
+AUTOR:
+**Daniel Navarro**  
+Desarrollador de software  
